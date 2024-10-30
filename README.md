@@ -11,7 +11,7 @@ I'm always eager to learn and explore new technologies to build efficient and sc
 - **Others**: Python, Redux
 
 ## 🌱 Currently Learning:
-- Chakra UI for React applications
+- DSA
 -  Redux for React applications
 ## 🔍 Recent Projects:
 - **AlgoView**: Developed sorting visualizations for algorithms like Bubble Sort and Selection Sort.
