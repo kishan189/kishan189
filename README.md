@@ -1,6 +1,8 @@
 # Hi, I'm Kishan 👋
 
-I'm a passionate **Full Stack Developer** with a background in **Mechanical Engineering** and extensive experience in **front-end development**. I transitioned into the tech industry after working as a quality engineer and have since dedicated myself to mastering web development. I'm always eager to learn and explore new technologies to build efficient and scalable applications.
+I'm a passionate **Full Stack Developer** with a background in **Mechanical Engineering** and extensive experience in **front-end development**. 
+I transitioned into the tech industry after working as a quality engineer and have since dedicated myself to mastering web development. 
+I'm always eager to learn and explore new technologies to build efficient and scalable applications.
 
 ## 🛠️ Technologies & Tools:
 - **Frontend**: HTML, CSS, JavaScript (React.js), Chakra UI
@@ -13,7 +15,7 @@ I'm a passionate **Full Stack Developer** with a background in **Mechanical Engi
 -  Redux for React applications
 ## 🔍 Recent Projects:
 - **AlgoView**: Developed sorting visualizations for algorithms like Bubble Sort and Selection Sort.
-- **OS World**:  Develop macOS website for user experience across different operating systems.
+- **OS World**:  Developed macOS website for user experience across different operating systems.
 Focused on the design elements to mimic macOS's sleek and minimalist design.
 
 ## 💼 Professional Experience:
