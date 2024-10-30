@@ -4,9 +4,9 @@ I'm a passionate **Full Stack Developer** with a background in **Mechanical Engi
 
 ## 🛠️ Technologies & Tools:
 - **Frontend**: HTML, CSS, JavaScript (React.js), Chakra UI
-- **Backend**: Firebase, Node.js (Basic), MongoDB (Basic)
+- **Backend**: Firebase, MySql (Basic), MongoDB (Basic)
 - **Version Control**: Git, GitHub
-- **Others**: SQL, , Python, Redux
+- **Others**: Python, Redux
 
 ## 🌱 Currently Learning:
 - Chakra UI for React applications
