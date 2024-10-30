@@ -4,19 +4,17 @@ I'm a passionate **Full Stack Developer** with a background in **Mechanical Engi
 
 ## 🛠️ Technologies & Tools:
 - **Frontend**: HTML, CSS, JavaScript (React.js), Chakra UI
-- **Backend**: Firebase, Node.js (Basic)
+- **Backend**: Firebase, Node.js (Basic), MongoDB (Basic)
 - **Version Control**: Git, GitHub
-- **Project Management**: Trello, Jira
-- **Others**: SQL, Ruby, Python, Redux, Context API
+- **Others**: SQL, , Python, Redux
 
 ## 🌱 Currently Learning:
 - Chakra UI for React applications
-- Express.js for backend development
-
+-  Redux for React applications
 ## 🔍 Recent Projects:
-- **Algorithm Visualizer**: Developed sorting visualizations for algorithms like Bubble Sort and Selection Sort.
-- **Employee Management App**: A React-based CRUD application with Firebase integration.
-- **Todo List App**: A task management app using React and Context API for state management.
+- **AlgoView**: Developed sorting visualizations for algorithms like Bubble Sort and Selection Sort.
+- **OS World**:  Develop macOS website for user experience across different operating systems.
+Focused on the design elements to mimic macOS's sleek and minimalist design.
 
 ## 💼 Professional Experience:
 - **Software Development**: Recently completed a Full Stack Web Development program at Masai School.
@@ -26,6 +24,6 @@ I'm a passionate **Full Stack Developer** with a background in **Mechanical Engi
 I'm currently looking for front-end development opportunities, and my goal is to continue improving my skills while contributing to impactful projects.
 
 ## 📫 Let's Connect:
-- [Portfolio](#)
-- [LinkedIn](#)
+- [Portfolio](https://wonderful-cactus-c7b624.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/kishan-singh-50a963201/)
 - [GitHub](https://github.com/KishanS)
