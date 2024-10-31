@@ -1,0 +1,62 @@
+
+/* Home Section */
+.home-section {
+    padding: 2rem 1rem;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color: #fff;
+}
+
+/* Welcome Section */
+.welcome-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.typewriter-textWelcom{
+    color:#060e4f;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 4rem;
+}
+.typewriter-cursorWelcom{
+    color: rgb(0, 187, 255);
+    font-size: 30px;
+}
+
+.welcome-section h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+/* Styling for the GIF */
+.welcome-gif {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+/* Responsive Styles */
+
+/* Tablets */
+@media (max-width: 768px) {
+    .welcome-section h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Mobile Devices */
+@media (max-width: 450px) {
+    .welcome-section h1 {
+        font-size: 1.8rem;
+    }
+
+    .welcome-gif {
+        max-width: 90%;
+    }
+}

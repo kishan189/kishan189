@@ -1,0 +1,91 @@
+
+/* Skills Section */
+.skills-section {
+    padding: 4rem 2rem;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+.skillsWriterBox{
+    background-color: #333;
+    
+}
+.typewriter-textSkill{
+    color:aqua;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 10rem;
+    
+}
+.typewriter-cursorSkill{
+    color: yellow;
+    font-size: 40px;
+}
+
+.skills-section h2 {
+    font-size: 2.5rem;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.containerSkill {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.skill:hover {
+    transform: translateY(-5px);
+}
+
+.skill i {
+    font-size: 3rem;
+    color: #f76c6c;
+    margin-bottom: 1rem;
+}
+
+.skill p {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+/* Responsive Styles */
+
+/* Tablets */
+@media (max-width: 768px) {
+    .skills-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Mobile Devices */
+@media (max-width: 450px) {
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .skill i {
+        font-size: 2.5rem;
+    }
+
+    .skill p {
+        font-size: 1rem;
+    }
+}
