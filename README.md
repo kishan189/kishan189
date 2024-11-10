@@ -14,7 +14,7 @@ I'm always eager to learn and explore new technologies to build efficient and sc
 - DSA
 -  Redux for React applications
 ## 🔍 Recent Projects:
-- **AlgoView**: Developed sorting visualizations for algorithms like Bubble Sort and Selection Sort.
+- **AlgoView**: Developed a responsive algorithm visualizer that visually represents algorithms and data structures to enhance learning and understanding.
 - **OS World**:  Developed macOS website for user experience across different operating systems.
 Focused on the design elements to mimic macOS's sleek and minimalist design.
 
