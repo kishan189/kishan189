@@ -12,11 +12,18 @@ function Project() {
             githubLink: "https://github.com/NajimuddinS/NeuralNetNavigators"
         },
         {
+            title: "Health and Wellnees",
+            description: " The CareSync platform is a holistic and personalized solution that integrates fitness tracking, nutrition management, mental wellness tools, and tailored health recommendations..",
+            demoLink: "visionary-crostata-0ee9ad.netlify.app/",
+            githubLink: "github.com/kishan189/QuantumLeap_018"
+        },
+        {
             title: "Operating Systems",
             description: "Explore and compare the design and functionality of different operating systems.",
             demoLink: "https://osworld.netlify.app/",
             githubLink: "https://github.com/masai-course/kishan_singh_fw27_303"
         }
+       
     ];
 
     return (

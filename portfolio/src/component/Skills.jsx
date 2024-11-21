@@ -35,12 +35,12 @@ function Skills() {
                         <p>JavaScript</p>
                     </div>
                     <div className="skill">
-                        <img style={{width:120}}  src={"https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png"}/>
+                        <img style={{width:120}}  src={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s"}/>
                         <p>React</p>
                     </div>
                     <div className="skill">
-                        <img style={{width:120}} src={"https://static-00.iconduck.com/assets.00/github-repo-git-octocat-icon-512x499-kv3d6dci.png"}/>
-                        <p>Git</p>
+                        <img style={{width:120}} src={"https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png"}/>
+                        <p>GitHub</p>
                     </div>
                     <div className="skill">
                         <img style={{width:120}} src={"https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"} />
