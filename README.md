@@ -1,8 +1,7 @@
 # Hi, I'm Kishan 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan189&show_icons=true&theme=transparent)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kishan189)](https://github.com/kishan189/github-readme-stats)
 
-I'm a passionate **Full Stack Developer** with a background in **Mechanical Engineering** and extensive experience in **front-end development**. 
+I'm a passionate **Full Stack Developer** with a **Mechanical Engineering** background and extensive experience in **front-end development**. 
 I transitioned into the tech industry after working as a quality engineer and have since dedicated myself to mastering web development. 
 I'm always eager to learn and explore new technologies to build efficient and scalable applications.
 
