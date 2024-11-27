@@ -1,6 +1,6 @@
 import React from "react";
 import "../style/about.css";
-import profile_pic from "../images/profile-pic.png";
+import profile_pic from "../images/profile-pic-2.png";
 import resume from "../images/KishanSingh-resume.pdf";
 import Typewriter from 'typewriter-effect';
 
