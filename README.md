@@ -1,7 +1,7 @@
 # Hi, I'm Kishan 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan189&show_icons=true&theme=transparent)
-<hr/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan189&layout=compact)
 
 I'm a passionate **Full Stack Developer** with a **Mechanical Engineering** background and extensive experience in **front-end development**. 
 I transitioned into the tech industry after working as a quality engineer and have since dedicated myself to mastering web development. 
