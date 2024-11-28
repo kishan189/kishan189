@@ -54,6 +54,7 @@ function About() {
                     <a href={resume} download>
                     <button className="resumeBtn">Download Resume</button>
                     </a>
+                    
                 </div>
             </div>
         </section>

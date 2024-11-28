@@ -1,7 +1,7 @@
 /* Contact Section */
 
 .contact-section {
-    padding: 4rem 2rem;
+    padding: 0rem 2rem;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,58,121,1) 35%, rgba(0,212,255,1) 100%);
     color: #fff;
@@ -13,7 +13,9 @@
 .social-links>div{
     margin: 20px 0px;
 }
-
+.social-links>div>span{
+    font-size:1.5rem;
+}
 .typewriter-textCon{
     color:aqua;
     font-size: 30px;
@@ -38,10 +40,18 @@
     background-color: #333;
     color: #fff;
 }
-.contact-section .container {
+
+.gitLinkedin{
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-section .FormContainer {
     max-width: 600px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 1rem;
+    background-color: #333;
 }
 
 /* Contact Form */

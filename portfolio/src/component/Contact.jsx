@@ -24,7 +24,6 @@ function Contact() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        // Here you can add your form submission logic
 
            const id=Math.floor(Math.random()*100+1)
             axios.put(`https://portfolio-e129a-default-rtdb.firebaseio.com/${id}.json`,formData)
@@ -77,17 +76,27 @@ function Contact() {
                         +91 7068813260
                      </span>
                    </div>
+
+                    <div className="gitLinkedin">
+                    <div>
                     <a href="https://github.com/kishan189" target="_blank" rel="noopener noreferrer">
+                    <img style={{width:40}} src={"https://cdn-icons-png.flaticon.com/256/25/25231.png"} alt="gitub"/>
                         GitHub
                     </a>
-                    <a href="https://www.linkedin.com/in/kishan-singh-50a963201" target="_blank" rel="noopener noreferrer">
+                    </div>
+                   <div>
+                   <a href="https://www.linkedin.com/in/kishan-singh-50a963201" target="_blank" rel="noopener noreferrer">
+                    <img style={{width:40}} src={"https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"} alt="gitub"/>
                         LinkedIn
                     </a>
+                   </div>
+                    </div>
+                    
             </div>
             
-            <div className="container">
+            <div className="FormContainer" >
            
-                <form onSubmit={handleSubmit} className="contact-form">
+                <form onSubmit={handleSubmit} className="contact-form" >
                     
                     <div className="form-group">
                         <label htmlFor="name">Name</label>

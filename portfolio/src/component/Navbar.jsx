@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../style/navbar.css"; // Link to the CSS file
+import resume from "../images/KishanSingh-resume.pdf";
 
 function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
@@ -28,13 +29,17 @@ function Navbar() {
                         <a href="#about" className="link" onClick={() => setIsOpen(false)}>About</a>
                     </li>
                     <li>
-                        <a href="#projects" className="link" onClick={() => setIsOpen(false)}>Project</a>
-                    </li>
-                    <li>
                         <a href="#skills" className="link" onClick={() => setIsOpen(false)}>Skills</a>
                     </li>
                     <li>
+                        <a href="#projects" className="link" onClick={() => setIsOpen(false)}>Project</a>
+                    </li>
+                    
+                    <li>
                         <a href="#contact" className="link" onClick={() => setIsOpen(false)}>Contact</a>
+                    </li>
+                    <li>
+                        <a href={resume} className="link" onClick={() => setIsOpen(false)}>Resume</a>
                     </li>
                 </ul>
             </div>
