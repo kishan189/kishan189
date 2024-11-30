@@ -31,6 +31,6 @@ Focused on the design elements to mimic macOS's sleek and minimalist design.
 I'm currently looking for front-end development opportunities, and my goal is to continue improving my skills while contributing to impactful projects.
 
 ## 📫 Let's Connect:
-- [Portfolio](https://wonderful-cactus-c7b624.netlify.app/)
+- [Portfolio](https://kishan189.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/kishan-singh-50a963201/)
 - [GitHub](https://github.com/KishanS)
