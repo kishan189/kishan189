@@ -19,7 +19,7 @@ function Project() {
             title: "Health and Wellnees (CareSync)",
             description: " The CareSync platform is a holistic and personalized solution that integrates fitness tracking, nutrition management, mental wellness tools, and tailored health recommendations..",
             demoLink: "https://visionary-crostata-0ee9ad.netlify.app/",
-            githubLink: "github.com/kishan189/QuantumLeap_018",
+            githubLink: "https://github.com/kishan189/QuantumLeap_018",
             
         },
         {
