@@ -30,4 +30,4 @@ I'm currently looking for front-end development opportunities, and my goal is to
 ## 📫 Let's Connect:
 - [Portfolio](https://kishan189.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/kishan-singh-50a963201/)
-- [GitHub](https://github.com/KishanS)
+- [GitHub](https://github.com/kishan189)
